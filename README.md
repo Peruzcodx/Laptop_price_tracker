@@ -25,8 +25,8 @@ A Python web scraper that tracks product prices, ratings, and reviews across pag
 
 ## Sample Output
 
-![Sample output](Output1.png)
-![Sample output](Output2.png)
+![Sample output](output1.png)
+![Sample output](output2.png)
 
 ## Notes
 
